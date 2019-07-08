@@ -21,4 +21,10 @@
   		<property name="basePackage" value="com.sw.mapper" />
   		<property name="sqlSessionFactory" ref="factory"></property>
 	</bean>
+	<bean id="airportService class="com/sw/serviceImpl/AirportServiceImpl">
+	
+	
+	</bean>
+	
+	
 </beans>
